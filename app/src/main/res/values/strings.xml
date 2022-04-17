@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="name">Прогноз погоды</string>
+    <string name="placeholder_name">Название города</string>
+    <string name="btn_load_weather">Загрузить</string>
+    <string name="no_input">Введите город</string>
+</resources>
